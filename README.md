@@ -1,20 +1,18 @@
-<div align="center">
+# Teuku Fazariz Basya
 
-  # Teuku Fazariz Basya
-  ### Junior iOS Developer 
+**Software Engineer · iOS & Apple Platforms**
 
-  <p>
-    <i>"Crafting intuitive experiences for the Apple Ecosystem with Swift & SwiftUI."</i>
-  </p>
+I build software for the Apple ecosystem with an emphasis on clarity, simplicity, and reliability.  
 
-  <div>
-    <a href="https://linkedin.com/in/teukufazarizbasya" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:teukufazarizbasya@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </div>
+Lately, I’ve been exploring game development and machine learning, mostly out of curiosity and a desire to understand systems more deeply.
 
-</div>
+I value learning, iteration, and building things that hold up over time.
+
+I also love cats and music, two of my favorite things.
+
+<sub>
+<a href="https://linkedin.com/in/teukufazarizbasya">LinkedIn</a> ·
+<a href="https://teukufazariz.vercel.app">Portfolio</a>
+<a href="mailto:teukufazarizbasya@gmail.com">Email</a>
+</sub>
 

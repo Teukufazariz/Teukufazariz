@@ -4,7 +4,7 @@
 
 I build software for the Apple ecosystem with an emphasis on clarity, simplicity, and reliability.  
 
-Lately, I’ve been exploring game development and machine learning, mostly out of curiosity and a desire to understand systems more deeply.
+Lately, I’ve been exploring game development and machine learning, mostly out of curiosity.
 
 I value learning, iteration, and building things that hold up over time.
 
